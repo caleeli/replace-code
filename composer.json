@@ -1,0 +1,17 @@
+{
+    "name": "davidc/replace-code",
+    "description": "Find and replace PHP code",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "David Callizaya",
+            "email": "davidcallizaya@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "ReplaceCode": "src/ReplaceCode"
+        }
+    }
+}
